@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           Doraemon
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          小叮当的百宝袋.
+          小叮当的百宝袋
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
